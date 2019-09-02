@@ -23,7 +23,7 @@ namespace InvestigationTask
 
                 no2 = Random;
 
-                if (no1 > 40)
+                if (no1 > 60)
                 {
                     ans = no1 - no2;
 
